@@ -183,7 +183,10 @@
     <Compile Include="Models\ApplicationUser.cs" />
     <Compile Include="Models\ApplicationDbContext.cs" />
     <Compile Include="Models\Brand.cs" />
+    <Compile Include="Models\Color.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
+    <Compile Include="Models\Shoe.cs" />
+    <Compile Include="Models\ShoeType.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
     <Compile Include="Views\RoleController.cs" />
